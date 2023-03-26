@@ -3,10 +3,10 @@ The dataset is about bankruptcy prediction of Polish companies. The data was col
 
 What I did in this project :-
 
-working with data in arrf files
-using up_sampling tho fix unbalance data sets
-Decission Tree model
-Random Forest Model
-Gradient Boosting Classifier
-Logistic Regression Model
-Deep neural Network using Tensorflow Kera
+-1 working with data in arrf files
+-2 using up_sampling tho fix unbalance data sets
+-3 Decission Tree model
+-4 Random Forest Model
+-5 Gradient Boosting Classifier
+-6 Logistic Regression Model
+-7 Deep neural Network using Tensorflow Kera
